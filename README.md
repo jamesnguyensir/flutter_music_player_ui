@@ -1,3 +1,3 @@
 # Flutter Music Player
 
-![Alt text](image.png?raw=true "Title")
+![Alt text](image.jpeg?raw=true "Title")
